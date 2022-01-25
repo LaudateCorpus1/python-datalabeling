@@ -4,6 +4,13 @@
 
 [1]: https://pypi.org/project/google-cloud-datalabeling/#history
 
+## [1.5.0](https://github.com/googleapis/python-datalabeling/compare/v1.4.0...v1.5.0) (2022-01-25)
+
+
+### Features
+
+* add api key support ([#188](https://github.com/googleapis/python-datalabeling/issues/188)) ([05f02e6](https://github.com/googleapis/python-datalabeling/commit/05f02e66d6f5a02bfd43d811bdde7240a0abfe61))
+
 ## [1.4.0](https://www.github.com/googleapis/python-datalabeling/compare/v1.3.0...v1.4.0) (2021-11-01)
 
 
